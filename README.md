@@ -8,7 +8,7 @@
 <img alt="Coder GIF" height=250 width=350 margin=200 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />  
 </div>
   </div>
-  <img src="https://github.com/mtrsuraj/FullStack_Developer_With_Java/blob/main/gif/MtrGlad.gif" width="128"/>
+<!--   <img src="https://github.com/mtrsuraj/FullStack_Developer_With_Java/blob/main/gif/MtrGlad.gif" width="128"/> -->
 
 
 - 🔭 I’m currently working on @techinfoguider
@@ -19,7 +19,7 @@
 - 📫 How to reach me:dev.mtrsuraj@gmail.com
 - 😄 Pronouns:mtr
 - ⚡ Fun fact:👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
-<div align="center">
+<!-- <div align="center">
  <img height=150 width=250 border=200 src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
  </div>
 [![Contributors][contributors-shield]][contributors-url]
@@ -320,7 +320,7 @@ export default class GemVersion extends BaseJsonService {
     },
   ]
 }
-```
+``` -->
 
 1. We defined category earlier in the tutorial. The `category()` property defines which heading in the index our example will appear under.
 2. The examples property defines an array of examples. In this case the array will contain a single object, but in some cases it is helpful to provide multiple usage examples.
