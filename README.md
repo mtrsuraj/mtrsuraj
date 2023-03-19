@@ -2,7 +2,7 @@
 
 <div align="center">
  
-<h3>I am a professional Software Developer who is charged with designing and coding software for businesses  and consumers alike.I work closely with clients to determine what they need, like <i>Java</i>, <i>Angular</i>, <i>Typescript</i>, <i>Node</i>, <i>Javascript</i>, <i>Html</i>,<i>TailwindCss</i>, <i>Cloud</i> <i>Git</i>, <i>SQL</i>, <i>MongoDB</i>, or <i>C++</i> etc.</h3> 
+<h3>I am a professional Software Developer @ Pratian Technology, in which working on <i>Core Java</i>,<i>Advance Java</i>, <i>Angular</i>, <i>Typescript</i>, <i>Node</i>, <i>Javascript</i>, <i>Html</i>,<i>TailwindCss</i>, <i>Cloud</i> <i>Git</i>, <i>SQL</i>, <i>MongoDB</i>, or <i>C++</i> etc.</h3> 
   
   
 <img alt="Coder GIF" height=250 width=350 margin=200 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />  
