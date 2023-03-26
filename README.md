@@ -12,7 +12,7 @@
 <hr>
 
 
-- 🔭 I’m currently working on @techinfoguider
+- 🔭 I’m currently working on @techinfoguider.com
 - 🌱 I’m currently learning Adv.Java DSA, JavaScript, Node, React,Cloud
 - 👯 I’m looking to collaborate ontechinfoguider
 - 🤔 I’m looking for help with ...
