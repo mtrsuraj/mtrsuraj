@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on https://techinfoguider.com
 - 🌱 I’m currently learning Adv.Java DSA, JavaScript, Node, React,Cloud
-- 👯 I’m looking to collaborate ontechinfoguider
+- 👯 I’m looking to collaborate @techinfoguider
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:dev.mtrsuraj@gmail.com
