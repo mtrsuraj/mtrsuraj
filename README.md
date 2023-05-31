@@ -2,7 +2,7 @@
 
 <div align="center">
  
-<h3>I am a Software Developer @ Pratian Technology, in which working on <i>Core Java</i>,<i>Advance Java</i>, <i>Angular</i>, etc.</h3> 
+<h3>I am a Software Developer, in which working on <i>Core Java</i>,<i>Advance Java</i>, <i>Angular</i>, etc.</h3> 
   
   
 <img alt="Coder GIF" height=250 width=350 margin=200 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />  
